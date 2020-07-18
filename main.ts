@@ -35,8 +35,8 @@ strip.show()
 KSRobot_IOT.Wifi_setup(
 SerialPin.P15,
 SerialPin.P8,
-"my_home",
-"2901518700",
+"",
+"",
 KSRobot_IOT.IOT_Config.STATION
 )
 basic.showString(KSRobot_IOT.Get_IP())
